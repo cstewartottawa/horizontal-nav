@@ -1,0 +1,61 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6cf;
+  }
+
+body {
+  font-family: "Bevan", cursive;
+  color: #fff;
+  background-color: #79766f;
+  margin: 0;
+  border: 2.5px solid: #5b5751;
+}
+
+h1 {
+  text-align: center;
+  margin-top:0;
+  padding: 0.3em;
+}
+
+.planet-types {
+  list-style-type: none;
+  margin: 0;
+  text-align: center;
+  padding: 0;
+}
+
+.planet-types li {
+  display: inline;
+}
+
+.planet-types li a {
+  display: inline-block;
+  background-color: #723738;
+  color: #fff;
+  text-decoration: none;
+  font-family: sans-serif;
+  padding: 12px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  }
